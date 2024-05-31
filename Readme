@@ -1,0 +1,16 @@
+Ceci est une application REACT développé par Ldown (Awen BOUILLIS),
+dans le cadre de la ressource R4.03 du département Informatique de l'IUT de Vannes.
+
+Cette application permet la gestion d'article de sport, et la simulation d'achats.
+Elle permet notamment le listage des articles disponibles, l'ajout d'articles, la modification, l'achat, la suppression et la recherche de ces derniers.
+
+Cette application a besoin d'un serveur mongoDB lancé en 127.0.0.1:27017 .
+De multiples installation sont nécessaires :
+- node.js et axios pour la partie client
+- node.js et mongoose pour la partie serveur
+
+Le script start.sh permet le démarrage du serveur mongoDb, server.js et client.js. 
+(la modification de la variable associé à votre serveur mongoDB est nécessaire au niceau de la commande "mongod -<votre variable>")
+
+Les scripts dans /test_bdd consiste à tester la monté en charge de l'application.
+Le script python nécessite l'installation de pymongo (sudo pip pymongo)
