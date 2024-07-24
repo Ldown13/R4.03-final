@@ -10,7 +10,7 @@ De multiples installation sont nécessaires :
 - node.js et mongoose pour la partie serveur
 
 Le script start.sh permet le démarrage du serveur mongoDb, server.js et client.js. 
-(la modification de la variable associé à votre serveur mongoDB est nécessaire au niceau de la commande "mongod -<votre variable>")
+(la modification de la variable associé à votre serveur mongoDB est nécessaire au niveau de la commande "mongod -<votre variable>")
 
 Les scripts dans /test_bdd consiste à tester la monté en charge de l'application.
 Le script python nécessite l'installation de pymongo (sudo pip pymongo)
