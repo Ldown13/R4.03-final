@@ -1,7 +1,7 @@
 Ceci est une application REACT développé par Ldown (Awen BOUILLIS),
 dans le cadre de la ressource R4.03 du département Informatique de l'IUT de Vannes.
 
-Disclaimer : l'application a été développé dans un cadre éducatif. Des bugs peuvent avoir lieu.
+Disclaimer : l'application a été développée dans un cadre éducatif. Des bugs peuvent avoir lieu.
 
 Cette application permet la gestion d'article de sport, et la simulation d'achats.
 Elle permet notamment le listage des articles disponibles, l'ajout d'articles, la modification, l'achat, la suppression et la recherche de ces derniers.
